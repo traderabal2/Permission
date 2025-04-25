@@ -3,11 +3,11 @@
 </p>
 
 ### FILTUR 🔥
-𝐕𝟐.𝟓 𝐅𝐮𝐥𝐥 𝐌𝐮𝐥𝐭𝐢, 𝐅𝐮𝐥𝐥 𝐅𝐢𝐥𝐭𝐮𝐫, 𝐅𝐮𝐥𝐥 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜𝐚𝐥𝐥𝐲
+𝐕3.1 𝐅𝐮𝐥𝐥 𝐌𝐮𝐥𝐭𝐢, 𝐅𝐮𝐥𝐥 𝐅𝐢𝐥𝐭𝐮𝐫, 𝐅𝐮𝐥𝐥 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜𝐚𝐥𝐥𝐲
 
-![alt text](https://github.com/oktaviaps/permission/blob/main/install.jpg?raw=true)
+![alt text](https://github.com/potato/permission/blob/main/install.jpg?raw=true)
 
 ### KONTAK ADMIN ✉️
 <a href="https://t.me/SFvpnStore" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 <a href="https://wa.me/628159818189" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
-![](https://raw.githubusercontent.com/oktaviaps/oktaviaps/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
+
